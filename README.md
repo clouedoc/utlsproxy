@@ -19,7 +19,7 @@
 ## Installation
 
 ```sh
-$ go install github.com/saucesteals/utlsproxy
+$ go install github.com/saucesteals/utlsproxy@latest
 ```
 
 ---
